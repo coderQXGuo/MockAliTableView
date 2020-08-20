@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MockAliTableView'
-  s.version          = '1.0.1'
+  s.version          = '1.1.0'
   s.summary          = 'MockAliTableView'
 
 # This description is used to generate tags and improve search results.

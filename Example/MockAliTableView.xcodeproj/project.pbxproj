@@ -66,7 +66,7 @@
 		C656AC521F439AFF1E147F42 /* Pods-MockAliTableView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MockAliTableView_Example.release.xcconfig"; path = "Target Support Files/Pods-MockAliTableView_Example/Pods-MockAliTableView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		CCB319BEBB702E0C9F3876CA /* Pods-MockAliTableView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MockAliTableView_Tests.release.xcconfig"; path = "Target Support Files/Pods-MockAliTableView_Tests/Pods-MockAliTableView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		EF1B3F0ED94B52E81714E6C7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		FADEB195DBC7CD52C3C0B51D /* MockAliTableView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MockAliTableView.podspec; path = ../MockAliTableView.podspec; sourceTree = "<group>"; };
+		FADEB195DBC7CD52C3C0B51D /* MockAliTableView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MockAliTableView.podspec; path = ../MockAliTableView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
