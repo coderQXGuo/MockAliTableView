@@ -11,6 +11,7 @@
 #endif
 
 #import "CustomExpandHeader.h"
+#import "MockAliTableView.h"
 #import "QXMockAliTableView.h"
 
 FOUNDATION_EXPORT double MockAliTableViewVersionNumber;

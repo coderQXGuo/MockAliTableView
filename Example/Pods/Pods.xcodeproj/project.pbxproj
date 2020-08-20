@@ -13,24 +13,20 @@
 		06AEA7117FE98F2409D2432AAEC326A8 /* MJRefreshGifHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D2551BE986A32088BDE209F47485256 /* MJRefreshGifHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0967598607D521318F69D7D39D517B20 /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 6136CCE8A30E0E3797060C0AA431BD80 /* ViewController+MASAdditions.m */; };
 		098630ECDB64ED7B89F5F687C82B4AC3 /* NSArray+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 48C0BB9A3CECFD13B418C71AE6F62A16 /* NSArray+MASAdditions.m */; };
-		09C30DD4D3FC177E95B3CE4F5C8A2320 /* QXMockAliTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 50D360AED4BB7723A9EFF82A62033A84 /* QXMockAliTableView.m */; };
 		0AECE221BADEA19083FC0CACE5973D8A /* MJRefreshFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 969C926E4CC79AB6FE4C1D0C414D732A /* MJRefreshFooter.m */; };
 		0AF1AD35706D90B1A91F291B899EF8C0 /* NSLayoutConstraint+MASDebugAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 95D96574DF8B434321EBBC30A67E08C2 /* NSLayoutConstraint+MASDebugAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0E844467564196946032458223350B6A /* CustomExpandHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 8647810ADFF804A2C98C62FBFFEF1623 /* CustomExpandHeader.m */; };
 		0F47C7DE634D4FE07B595912093139FE /* MJRefresh.bundle in Resources */ = {isa = PBXBuildFile; fileRef = D8B038DCF63D69CF9A8FE40AB097C2EA /* MJRefresh.bundle */; };
 		13611CB0839D7F8C3EFCB9F9ED5495BD /* NSBundle+MJRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = C390E62F311D43C9B026E8422636AA64 /* NSBundle+MJRefresh.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1972E85F0FCD0F3EAF28ED7CD036286E /* Masonry-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 30E9201613B1E0097657C20E8B0B28F3 /* Masonry-dummy.m */; };
 		22513825A54DC9B8C23BF0CC7F45B00F /* MJRefreshConst.m in Sources */ = {isa = PBXBuildFile; fileRef = B7CF07A659DA3FD1417E55C3D940CAB2 /* MJRefreshConst.m */; };
-		267296F0ACC4874016495298318358D9 /* MockAliTableView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F65FE176C81A9FFE988FFEBBC98B7076 /* MockAliTableView-dummy.m */; };
 		280D36330BAC5715615FF4A8B42D60D6 /* MASUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = 4807F6C9C23935122DBF8F9CF2B0DAE5 /* MASUtilities.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		297A3627CF2F032CBFDC61D1A3786E63 /* MASViewAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = 2444DD08B0775A8D476F3D23751A25AA /* MASViewAttribute.m */; };
 		3205CBF024E0880A6FFF02D474E236BC /* Pods-MockAliTableView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F0F6638A097E47ED404284370C7B7AA /* Pods-MockAliTableView_Example-dummy.m */; };
 		346080C0D1CA23399ADD739D722D7CEF /* Masonry.h in Headers */ = {isa = PBXBuildFile; fileRef = 367E319CA582DABE128B26B726DE77D7 /* Masonry.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		348383DED291C6D3B1DCEA7AB608ECB0 /* MJRefresh.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D5196B9B3293F479393B1E8CBB6A1DD6 /* MJRefresh.framework */; };
+		34C19E83CF72C2B53B30ED3BBDFB97D8 /* CustomExpandHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 85F532BA7496B4D4D6D8192CC1D77EB4 /* CustomExpandHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		39172F66777E6BC6EBFFC5948E3CC765 /* MJRefreshNormalHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = E0C5269E7EBEF6D14DC61F631E2C3D65 /* MJRefreshNormalHeader.m */; };
-		3D0F2C501ACF29FF799C247D9EBC8D26 /* Masonry.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87CB23BE559DF80E8BC2074184E6A9FB /* Masonry.framework */; };
+		3A5D97C4B20A87162DBD6249B0AD8615 /* CustomExpandHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 602E0A9699682A24D57C65F52ADDDD37 /* CustomExpandHeader.m */; };
 		3DA5F1D8E51CDD102A871C2F37770C7B /* MASViewAttribute.h in Headers */ = {isa = PBXBuildFile; fileRef = 8CB8E52A5D4A105CDC9CA4C29A026CD8 /* MASViewAttribute.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3EB96D2F8C161E79BD0D9A7F0D386690 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7ECF38B2B45305A1ABA2B20C5B0F5DE /* Foundation.framework */; };
 		4055A0ACF4681DEA04E2F0AECD0B97B2 /* UIScrollView+MJRefresh.m in Sources */ = {isa = PBXBuildFile; fileRef = D03159CF32D95C81F0F83D2A897ECFB5 /* UIScrollView+MJRefresh.m */; };
 		45626116C19AA54A2359E85DAEB5AD42 /* UIScrollView+MJExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 20DFE963091020A5048A0C0A66E56646 /* UIScrollView+MJExtension.m */; };
 		4583409C21FCF11CB11FE51B0B235A00 /* MJRefreshFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 3F789481302EC7C6996182B0AE6E0A1D /* MJRefreshFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -38,6 +34,7 @@
 		4B0981F9AC628CF5100C50FF4A163A4A /* View+MASAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 0192A3EBF7EDC052F89FDAFDE47CE40D /* View+MASAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4F5A97CA16447E2BDF919A40C1652E9F /* MJRefreshHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D13B90C852AC70B777ABB43F13A6CE2 /* MJRefreshHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		528237787EC24E25AD6BB486B1BEBE5D /* MJRefreshBackStateFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 5B5FB5952B431CD293A90418EA9F8F1D /* MJRefreshBackStateFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		541822963E79DB0CA9B1FFD824A3A7B5 /* QXMockAliTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF5AA7696353927EFAF5A396828761C /* QXMockAliTableView.m */; };
 		595527C54E24251571AA3B9E61D616BE /* MJRefreshBackFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 849E3A6E3C5F02101F8D2D1E06853C1A /* MJRefreshBackFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5A384A2C99EB807D449323F9814098A9 /* MJRefresh-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CC90E78B946FC4937FE16FB420CE15E /* MJRefresh-dummy.m */; };
 		61EF33C64C26EDF6A86430C30CCC8125 /* MJRefreshAutoFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = A2CC277F1A836E56D5C94DE1420A095C /* MJRefreshAutoFooter.m */; };
@@ -46,6 +43,7 @@
 		696BEC58A027BCCDFB378637C75C78A5 /* MJRefreshAutoGifFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 5C1135AA186408C7594B27F642666F6D /* MJRefreshAutoGifFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6A6AD3A5BBDBFD0B4AF936BD518EC0B1 /* Masonry-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8F085AFB51B2FB51DB03B43386850C3D /* Masonry-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6C1461ED2AF53643934B4B97E9BB8A7D /* UIScrollView+MJRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = F7856316859155F5DB3FD2ED3A749330 /* UIScrollView+MJRefresh.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6F9F0D6C2B8E95502AC0308AE294FFF1 /* QXMockAliTableView.h in Headers */ = {isa = PBXBuildFile; fileRef = E1527499994D73CC93A2D84275B3DDE0 /* QXMockAliTableView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		710200F11DC7A1879D4DD570EAC49AEC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7ECF38B2B45305A1ABA2B20C5B0F5DE /* Foundation.framework */; };
 		78B2727EE5D693F58D019DB098005101 /* MASConstraintMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CF8A21920538F2D981BEE096FE91CB1 /* MASConstraintMaker.m */; };
 		7BFF65958F014760B6AC4742824892EB /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 64658E1A4A43B1F4154A43B0EC9F31B7 /* MASCompositeConstraint.m */; };
@@ -56,12 +54,15 @@
 		86F2E53F22F26D2D030CA8ED679B5266 /* MJRefreshBackFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = B88F6678969F36526E5116942AC79EAE /* MJRefreshBackFooter.m */; };
 		89407BE103B6AA73E90C8E0EF0C1AA08 /* MJRefreshAutoGifFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AE6762EB1AFE9E2215B958C9D060564 /* MJRefreshAutoGifFooter.m */; };
 		8B92011C9373001132C8148BFC8F50B3 /* ViewController+MASAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = EFD4D46BB8AF4E6120EDCFA70D1D7AC8 /* ViewController+MASAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8C0F15DA4933CD97CE942D5A6C105991 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7ECF38B2B45305A1ABA2B20C5B0F5DE /* Foundation.framework */; };
+		8C8F0372BDF4BAD067A8506E04F2F9CA /* MockAliTableView.h in Headers */ = {isa = PBXBuildFile; fileRef = 01288B29651764CCB73EF71B83DB8CF1 /* MockAliTableView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8D4D1F6E4709EBB13974E95DC1059DDC /* MASLayoutConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = 72519F567AC5720B31EC153F396FE786 /* MASLayoutConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8D65CE579E516BDD5FB36CAA21D693F6 /* MASCompositeConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = 8F54B3CDA399D842E079F5A057E26954 /* MASCompositeConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8F736DFA1256E8BE2DCC41F66F2A2561 /* MJRefreshHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 50C1BF6B3E352AE839D67E55AF763D2D /* MJRefreshHeader.m */; };
 		941955A19C40899D275604E6E9C21A6D /* MASConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = 29764F80B1DBE7A99A6FEE44224E9CBE /* MASConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		94940A2C852223F20EE7ED83A9BB5179 /* MJRefreshConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = DDE75536DE38472CA99A61B75EFDA722 /* MJRefreshConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		95BD9ECE799ABE9F7F41DB1D4F44DE31 /* MJRefreshComponent.h in Headers */ = {isa = PBXBuildFile; fileRef = 54D72382CC9984AAA0404B9874F40B7E /* MJRefreshComponent.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		974C0C1ED9925C35B411F0D35C910446 /* MockAliTableView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 07FD3AC91FD9FCFBD7C9BB2C750021B7 /* MockAliTableView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9D546E1168C04B0B2EAE005D9275D18B /* MASConstraint+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 123CB291FE31EE69DB264F2765B55FE0 /* MASConstraint+Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A2C7919E97BDABBABA5ED3F662A5B15F /* Pods-MockAliTableView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DC162E31FD64331F35CBC86A4CB1469 /* Pods-MockAliTableView_Tests-dummy.m */; };
 		A35FBEEC7D088AEC05297E8292A32C77 /* View+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B9E1F826B971AAAC39AA5D4AF1795E3 /* View+MASAdditions.m */; };
@@ -70,7 +71,6 @@
 		A8F266741C653EAED3DD49D75DB9D5A8 /* MJRefreshConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = AAAE80C9A92EA002B7A031BB6C06CA09 /* MJRefreshConfig.m */; };
 		AA5F359B86973F47D34F4A0FD745E4EC /* MJRefreshStateHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = A1C08364CD96310D0E21D8C445C7E002 /* MJRefreshStateHeader.m */; };
 		B056560C94A6643A58DBBABD306547B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7ECF38B2B45305A1ABA2B20C5B0F5DE /* Foundation.framework */; };
-		B3164E66962E34AB8AD74B4609717C59 /* MockAliTableView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 806947AC98DB60FCCEA08478803623F5 /* MockAliTableView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B545FC64504EB25999F30CFC1E27E702 /* MJRefreshAutoNormalFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 7031580317D786D465A8E4E4520B5121 /* MJRefreshAutoNormalFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B7D645EC004610E8A581E532D28771EC /* MASViewConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = A6594EAE8702A90CA3F1773A79999249 /* MASViewConstraint.m */; };
 		BB14E686BBE6CC782FA3CF374B78078C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7ECF38B2B45305A1ABA2B20C5B0F5DE /* Foundation.framework */; };
@@ -80,11 +80,12 @@
 		CBDC089A3E26FC6825F64E078195BF01 /* UIScrollView+MJExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = 2CB629949AB5725BA51A46653699430D /* UIScrollView+MJExtension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CE7004AFA3B30D672A4DD9B4D3E6915B /* MJRefreshConst.h in Headers */ = {isa = PBXBuildFile; fileRef = C03F9FD01409860B7FE1A2549DFBDA2C /* MJRefreshConst.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CE93C54413259B4AC3683B6EB874D466 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24A19760E41A1062C0C8A8B2053F4ADD /* UIKit.framework */; };
-		D016EF2D039A006DE15F5EF7B4B90601 /* QXMockAliTableView.h in Headers */ = {isa = PBXBuildFile; fileRef = 4B8C8D552A0CA18F5EBAE90283599C3A /* QXMockAliTableView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CF17F095DC3E3B4F4D59864B9F6EAE87 /* MJRefresh.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D5196B9B3293F479393B1E8CBB6A1DD6 /* MJRefresh.framework */; };
 		D476A1AD427ED4B951ACCB95459033CC /* MJRefreshBackNormalFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D4724F3FDA820D4A25E2D2135EFA864 /* MJRefreshBackNormalFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D4B4E70415160F1DBDC33399476BEC53 /* Masonry.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87CB23BE559DF80E8BC2074184E6A9FB /* Masonry.framework */; };
 		D8328429281E82F67DB47AF6C9D95191 /* MJRefreshBackGifFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 5A79552D96931BB4F04EAED94D6CBC5F /* MJRefreshBackGifFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D92EAC857D7E799A6A4323E5AA588CF6 /* CustomExpandHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 75414250BDFA53DC5026987602858775 /* CustomExpandHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DCCC7E7E734A732901932B2E9D662EE7 /* MJRefreshAutoStateFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 5781A96D20855D941A2DAB20A503FD30 /* MJRefreshAutoStateFooter.m */; };
+		DFD7F9830F8B6CE2BFE03818B6BAD73D /* MockAliTableView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 92FD111D0C2D768AB25B781B1FD922EB /* MockAliTableView-dummy.m */; };
 		E51F496BDC6ACADE04FDA059C6CB2342 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7ECF38B2B45305A1ABA2B20C5B0F5DE /* Foundation.framework */; };
 		E7CA20228B3583F41927813EE904CAD3 /* View+MASShorthandAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 98C3C844CD7E8B1D27B1845FC714B75F /* View+MASShorthandAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E8DD5D1D406150E1C80AD015271B6848 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = D9F2BB5B51D51567FA343469F514E3B1 /* MASConstraint.m */; };
@@ -120,19 +121,12 @@
 			remoteGlobalIDString = 55AF53E6C77A10ED4985E04D74A8878E;
 			remoteInfo = Masonry;
 		};
-		738A7F82FBDDC7B9C5FD8C4898BD5F34 /* PBXContainerItemProxy */ = {
+		81B090E8D1409ED8F03F76FAD9D361D8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 6868056D761E163D10FDAF8CF1C4D9B8;
 			remoteInfo = MJRefresh;
-		};
-		77C2D166224EF9B6471E8F7E0142EF27 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 55AF53E6C77A10ED4985E04D74A8878E;
-			remoteInfo = Masonry;
 		};
 		81E40165CAC1F2575F65C48E614A7FB2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -141,15 +135,24 @@
 			remoteGlobalIDString = 6868056D761E163D10FDAF8CF1C4D9B8;
 			remoteInfo = MJRefresh;
 		};
+		D5FE31049A44C4C02E9131F3AC65ECA7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 55AF53E6C77A10ED4985E04D74A8878E;
+			remoteInfo = Masonry;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		00A5CBB96CE92EF465978155F0780B6B /* NSBundle+MJRefresh.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSBundle+MJRefresh.m"; path = "MJRefresh/NSBundle+MJRefresh.m"; sourceTree = "<group>"; };
+		01288B29651764CCB73EF71B83DB8CF1 /* MockAliTableView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MockAliTableView.h; path = MockAliTableView/Classes/MockAliTableView.h; sourceTree = "<group>"; };
 		014164C8A03696D9AEC19385AA762C4A /* Pods-MockAliTableView_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MockAliTableView_Example-Info.plist"; sourceTree = "<group>"; };
 		0192A3EBF7EDC052F89FDAFDE47CE40D /* View+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "View+MASAdditions.h"; path = "Masonry/View+MASAdditions.h"; sourceTree = "<group>"; };
 		0318A44B93C75346B2D61E63F1F88D9C /* Pods-MockAliTableView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MockAliTableView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		03DD4173C3B9A4C5C28C099FDDA96D60 /* Pods_MockAliTableView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MockAliTableView_Example.framework; path = "Pods-MockAliTableView_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		069B085003068DE9D5F4BAB9A1D671E0 /* Pods-MockAliTableView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MockAliTableView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		07FD3AC91FD9FCFBD7C9BB2C750021B7 /* MockAliTableView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MockAliTableView-umbrella.h"; sourceTree = "<group>"; };
 		09F269E405FB095B771D809E0EA605F6 /* MJRefresh-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MJRefresh-umbrella.h"; sourceTree = "<group>"; };
 		0E774A9D01FFE81E338DDCF9A4AF9E0C /* MJRefreshNormalHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshNormalHeader.h; path = MJRefresh/Custom/Header/MJRefreshNormalHeader.h; sourceTree = "<group>"; };
 		123CB291FE31EE69DB264F2765B55FE0 /* MASConstraint+Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MASConstraint+Private.h"; path = "Masonry/MASConstraint+Private.h"; sourceTree = "<group>"; };
@@ -158,12 +161,11 @@
 		1FFED36A657123030ABB700256D73F15 /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Masonry.framework; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		20DFE963091020A5048A0C0A66E56646 /* UIScrollView+MJExtension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIScrollView+MJExtension.m"; path = "MJRefresh/UIScrollView+MJExtension.m"; sourceTree = "<group>"; };
 		2444DD08B0775A8D476F3D23751A25AA /* MASViewAttribute.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASViewAttribute.m; path = Masonry/MASViewAttribute.m; sourceTree = "<group>"; };
-		248BEC06A1DB6FDF8E3EB3C80D92A467 /* MockAliTableView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MockAliTableView-prefix.pch"; sourceTree = "<group>"; };
 		24A19760E41A1062C0C8A8B2053F4ADD /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		2877F4FA142031B17E5D76B71EFA5492 /* Pods-MockAliTableView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MockAliTableView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		29764F80B1DBE7A99A6FEE44224E9CBE /* MASConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASConstraint.h; path = Masonry/MASConstraint.h; sourceTree = "<group>"; };
-		2A3FD64C7D14E0D877F106DC4AC63288 /* MockAliTableView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MockAliTableView-Info.plist"; sourceTree = "<group>"; };
 		2CB629949AB5725BA51A46653699430D /* UIScrollView+MJExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIScrollView+MJExtension.h"; path = "MJRefresh/UIScrollView+MJExtension.h"; sourceTree = "<group>"; };
+		2EF5AA7696353927EFAF5A396828761C /* QXMockAliTableView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QXMockAliTableView.m; path = MockAliTableView/Classes/QXMockAliTableView.m; sourceTree = "<group>"; };
 		30E9201613B1E0097657C20E8B0B28F3 /* Masonry-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Masonry-dummy.m"; sourceTree = "<group>"; };
 		345D92FD839A230F0793B5F0EB2B429E /* Pods-MockAliTableView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MockAliTableView_Tests-umbrella.h"; sourceTree = "<group>"; };
 		367E319CA582DABE128B26B726DE77D7 /* Masonry.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Masonry.h; path = Masonry/Masonry.h; sourceTree = "<group>"; };
@@ -177,14 +179,10 @@
 		4807F6C9C23935122DBF8F9CF2B0DAE5 /* MASUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASUtilities.h; path = Masonry/MASUtilities.h; sourceTree = "<group>"; };
 		489BCC574AA74C00D76279E2BD70D85C /* Masonry.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Masonry.debug.xcconfig; sourceTree = "<group>"; };
 		48C0BB9A3CECFD13B418C71AE6F62A16 /* NSArray+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+MASAdditions.m"; path = "Masonry/NSArray+MASAdditions.m"; sourceTree = "<group>"; };
-		4B8C8D552A0CA18F5EBAE90283599C3A /* QXMockAliTableView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QXMockAliTableView.h; path = MockAliTableView/Classes/QXMockAliTableView.h; sourceTree = "<group>"; };
 		4F0F6638A097E47ED404284370C7B7AA /* Pods-MockAliTableView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MockAliTableView_Example-dummy.m"; sourceTree = "<group>"; };
-		4F233BFF2BE496808FC20274A6E58E3D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		501DCE274A5695A57A682C23C2F90BEF /* MJRefreshAutoStateFooter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshAutoStateFooter.h; path = MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.h; sourceTree = "<group>"; };
 		50C1BF6B3E352AE839D67E55AF763D2D /* MJRefreshHeader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshHeader.m; path = MJRefresh/Base/MJRefreshHeader.m; sourceTree = "<group>"; };
-		50D360AED4BB7723A9EFF82A62033A84 /* QXMockAliTableView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QXMockAliTableView.m; path = MockAliTableView/Classes/QXMockAliTableView.m; sourceTree = "<group>"; };
 		510AECDEC5986B705AD95C6F37B337F3 /* MJRefresh-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MJRefresh-Info.plist"; sourceTree = "<group>"; };
-		5334904204B329EFB825E355927349CB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		54D72382CC9984AAA0404B9874F40B7E /* MJRefreshComponent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshComponent.h; path = MJRefresh/Base/MJRefreshComponent.h; sourceTree = "<group>"; };
 		557B65A3BD859CC1459F96AC95ABB698 /* MASViewConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASViewConstraint.h; path = Masonry/MASViewConstraint.h; sourceTree = "<group>"; };
 		5781A96D20855D941A2DAB20A503FD30 /* MJRefreshAutoStateFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshAutoStateFooter.m; path = MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.m; sourceTree = "<group>"; };
@@ -193,37 +191,38 @@
 		5B9E1F826B971AAAC39AA5D4AF1795E3 /* View+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "View+MASAdditions.m"; path = "Masonry/View+MASAdditions.m"; sourceTree = "<group>"; };
 		5BDFEDE4D1AB3B9563ABAD5609E30CA7 /* Masonry-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Masonry-Info.plist"; sourceTree = "<group>"; };
 		5C1135AA186408C7594B27F642666F6D /* MJRefreshAutoGifFooter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshAutoGifFooter.h; path = MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.h; sourceTree = "<group>"; };
+		5C696257DB1FB137072EF29A80B0C3A6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		5CC3842B2D7BFCB6E9AB48E716C30226 /* MJRefresh.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MJRefresh.modulemap; sourceTree = "<group>"; };
+		602E0A9699682A24D57C65F52ADDDD37 /* CustomExpandHeader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CustomExpandHeader.m; path = MockAliTableView/Classes/CustomExpandHeader.m; sourceTree = "<group>"; };
 		6136CCE8A30E0E3797060C0AA431BD80 /* ViewController+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "ViewController+MASAdditions.m"; path = "Masonry/ViewController+MASAdditions.m"; sourceTree = "<group>"; };
 		63DEF17D0F1010F9754F2CEA4F0C4AC8 /* Masonry-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Masonry-prefix.pch"; sourceTree = "<group>"; };
 		64658E1A4A43B1F4154A43B0EC9F31B7 /* MASCompositeConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASCompositeConstraint.m; path = Masonry/MASCompositeConstraint.m; sourceTree = "<group>"; };
 		6731151681D56842659A55111E28F2BB /* NSArray+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+MASAdditions.h"; path = "Masonry/NSArray+MASAdditions.h"; sourceTree = "<group>"; };
-		6FDEB73013ECAC5705BEA08CEE7B77DA /* MockAliTableView.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MockAliTableView.debug.xcconfig; sourceTree = "<group>"; };
 		7031580317D786D465A8E4E4520B5121 /* MJRefreshAutoNormalFooter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshAutoNormalFooter.h; path = MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.h; sourceTree = "<group>"; };
 		71988BF20F5AEE732DE4B753977F3402 /* MJRefresh.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MJRefresh.release.xcconfig; sourceTree = "<group>"; };
 		72519F567AC5720B31EC153F396FE786 /* MASLayoutConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASLayoutConstraint.h; path = Masonry/MASLayoutConstraint.h; sourceTree = "<group>"; };
-		747E18137E6CF1D2268A3C1715E35B89 /* MockAliTableView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MockAliTableView.release.xcconfig; sourceTree = "<group>"; };
 		74C5661634F3D46B8BA1F58F2DD9DDD0 /* Pods-MockAliTableView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MockAliTableView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		75414250BDFA53DC5026987602858775 /* CustomExpandHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CustomExpandHeader.h; path = MockAliTableView/Classes/CustomExpandHeader.h; sourceTree = "<group>"; };
 		79F8F647B0719B7ABC2232A76D22EA3B /* MJRefreshAutoNormalFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshAutoNormalFooter.m; path = MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.m; sourceTree = "<group>"; };
 		7AE6762EB1AFE9E2215B958C9D060564 /* MJRefreshAutoGifFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshAutoGifFooter.m; path = MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.m; sourceTree = "<group>"; };
 		7C8E7791CC5B7284B21B50CC4CCB9F19 /* MJRefreshBackStateFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshBackStateFooter.m; path = MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.m; sourceTree = "<group>"; };
 		7E5853BD58B4521FBFF2A8A3D159F898 /* MJRefreshAutoFooter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshAutoFooter.h; path = MJRefresh/Base/MJRefreshAutoFooter.h; sourceTree = "<group>"; };
 		7E7368C1E44B54B70FB73FE458D483EB /* MJRefreshBackNormalFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshBackNormalFooter.m; path = MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.m; sourceTree = "<group>"; };
-		806947AC98DB60FCCEA08478803623F5 /* MockAliTableView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MockAliTableView-umbrella.h"; sourceTree = "<group>"; };
 		829ECAF35211C62D9076A64DC5A83163 /* Pods-MockAliTableView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MockAliTableView_Example.modulemap"; sourceTree = "<group>"; };
 		849E3A6E3C5F02101F8D2D1E06853C1A /* MJRefreshBackFooter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshBackFooter.h; path = MJRefresh/Base/MJRefreshBackFooter.h; sourceTree = "<group>"; };
 		85AE18DA48CBC4045DB00DAC46E03C40 /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSLayoutConstraint+MASDebugAdditions.m"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
-		8647810ADFF804A2C98C62FBFFEF1623 /* CustomExpandHeader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CustomExpandHeader.m; path = MockAliTableView/Classes/CustomExpandHeader.m; sourceTree = "<group>"; };
+		85F532BA7496B4D4D6D8192CC1D77EB4 /* CustomExpandHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CustomExpandHeader.h; path = MockAliTableView/Classes/CustomExpandHeader.h; sourceTree = "<group>"; };
 		87CB23BE559DF80E8BC2074184E6A9FB /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CB8E52A5D4A105CDC9CA4C29A026CD8 /* MASViewAttribute.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASViewAttribute.h; path = Masonry/MASViewAttribute.h; sourceTree = "<group>"; };
 		8D13B90C852AC70B777ABB43F13A6CE2 /* MJRefreshHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshHeader.h; path = MJRefresh/Base/MJRefreshHeader.h; sourceTree = "<group>"; };
 		8D2551BE986A32088BDE209F47485256 /* MJRefreshGifHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshGifHeader.h; path = MJRefresh/Custom/Header/MJRefreshGifHeader.h; sourceTree = "<group>"; };
 		8F085AFB51B2FB51DB03B43386850C3D /* Masonry-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Masonry-umbrella.h"; sourceTree = "<group>"; };
 		8F54B3CDA399D842E079F5A057E26954 /* MASCompositeConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASCompositeConstraint.h; path = Masonry/MASCompositeConstraint.h; sourceTree = "<group>"; };
+		8FC13012B2EDD6D3CA77C740114515EC /* MockAliTableView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MockAliTableView.release.xcconfig; sourceTree = "<group>"; };
+		92FD111D0C2D768AB25B781B1FD922EB /* MockAliTableView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MockAliTableView-dummy.m"; sourceTree = "<group>"; };
 		95D96574DF8B434321EBBC30A67E08C2 /* NSLayoutConstraint+MASDebugAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSLayoutConstraint+MASDebugAdditions.h"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.h"; sourceTree = "<group>"; };
 		969C926E4CC79AB6FE4C1D0C414D732A /* MJRefreshFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshFooter.m; path = MJRefresh/Base/MJRefreshFooter.m; sourceTree = "<group>"; };
 		98C3C844CD7E8B1D27B1845FC714B75F /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "View+MASShorthandAdditions.h"; path = "Masonry/View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
+		9A0696AE92554656BEB1B4D30C7B0B58 /* MockAliTableView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MockAliTableView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9B7AA057D2EFE3A8DAC8E632D639F651 /* MJRefresh.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MJRefresh.debug.xcconfig; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A1C08364CD96310D0E21D8C445C7E002 /* MJRefreshStateHeader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshStateHeader.m; path = MJRefresh/Custom/Header/MJRefreshStateHeader.m; sourceTree = "<group>"; };
@@ -235,7 +234,6 @@
 		AAAE80C9A92EA002B7A031BB6C06CA09 /* MJRefreshConfig.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshConfig.m; path = MJRefresh/MJRefreshConfig.m; sourceTree = "<group>"; };
 		AC98542493E2F3BEF723F75ED52F1098 /* MJRefreshGifHeader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshGifHeader.m; path = MJRefresh/Custom/Header/MJRefreshGifHeader.m; sourceTree = "<group>"; };
 		B4CC43BC9D3B607239F8F525790740D0 /* UIView+MJExtension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+MJExtension.m"; path = "MJRefresh/UIView+MJExtension.m"; sourceTree = "<group>"; };
-		B618D8829A3F684E105230CF568DC53D /* MockAliTableView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MockAliTableView.modulemap; sourceTree = "<group>"; };
 		B7165F46C1C7DBE81E67ABB62E1C45D9 /* Pods-MockAliTableView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MockAliTableView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		B7CF07A659DA3FD1417E55C3D940CAB2 /* MJRefreshConst.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshConst.m; path = MJRefresh/MJRefreshConst.m; sourceTree = "<group>"; };
 		B88F6678969F36526E5116942AC79EAE /* MJRefreshBackFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshBackFooter.m; path = MJRefresh/Base/MJRefreshBackFooter.m; sourceTree = "<group>"; };
@@ -245,15 +243,19 @@
 		C81E9A59402FF5FB04A646C0FDED90E6 /* UIView+MJExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+MJExtension.h"; path = "MJRefresh/UIView+MJExtension.h"; sourceTree = "<group>"; };
 		C8B158B2E6D8DABF5997FA703ECB657F /* Pods_MockAliTableView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MockAliTableView_Tests.framework; path = "Pods-MockAliTableView_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C94AF5DF0133BFF1E405CA235E11AC3B /* Pods-MockAliTableView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MockAliTableView_Tests.modulemap"; sourceTree = "<group>"; };
+		C9801479DC8A2CA803251CA60D62E523 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		CAB1CA5FBE2A8D0A01576FAD78353FCC /* MJRefreshStateHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshStateHeader.h; path = MJRefresh/Custom/Header/MJRefreshStateHeader.h; sourceTree = "<group>"; };
 		D03159CF32D95C81F0F83D2A897ECFB5 /* UIScrollView+MJRefresh.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIScrollView+MJRefresh.m"; path = "MJRefresh/UIScrollView+MJRefresh.m"; sourceTree = "<group>"; };
 		D5196B9B3293F479393B1E8CBB6A1DD6 /* MJRefresh.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MJRefresh.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7ECF38B2B45305A1ABA2B20C5B0F5DE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		D8A410BA980B6826DB80CDD0CEAFB9E8 /* MockAliTableView.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MockAliTableView.debug.xcconfig; sourceTree = "<group>"; };
 		D8B038DCF63D69CF9A8FE40AB097C2EA /* MJRefresh.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = MJRefresh.bundle; path = MJRefresh/MJRefresh.bundle; sourceTree = "<group>"; };
 		D92A55C70EA32227409FB64D29935523 /* MJRefreshBackGifFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshBackGifFooter.m; path = MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.m; sourceTree = "<group>"; };
 		D9F2BB5B51D51567FA343469F514E3B1 /* MASConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASConstraint.m; path = Masonry/MASConstraint.m; sourceTree = "<group>"; };
 		DDE75536DE38472CA99A61B75EFDA722 /* MJRefreshConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshConfig.h; path = MJRefresh/MJRefreshConfig.h; sourceTree = "<group>"; };
 		E0C5269E7EBEF6D14DC61F631E2C3D65 /* MJRefreshNormalHeader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshNormalHeader.m; path = MJRefresh/Custom/Header/MJRefreshNormalHeader.m; sourceTree = "<group>"; };
+		E1527499994D73CC93A2D84275B3DDE0 /* QXMockAliTableView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QXMockAliTableView.h; path = MockAliTableView/Classes/QXMockAliTableView.h; sourceTree = "<group>"; };
+		E1A8EFB205A6278D771D0E8519BAF835 /* MockAliTableView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MockAliTableView-Info.plist"; sourceTree = "<group>"; };
 		E49D6D248DD1CEE584E6776B9164A1B2 /* MJRefresh.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MJRefresh.framework; path = MJRefresh.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC666CB8A846EE6596187C3B23DF6FD2 /* MJRefresh-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MJRefresh-prefix.pch"; sourceTree = "<group>"; };
 		ED27E19BCA16DF879C1B4BBFA4DAD9F4 /* Pods-MockAliTableView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MockAliTableView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -262,9 +264,9 @@
 		EFD4D46BB8AF4E6120EDCFA70D1D7AC8 /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "ViewController+MASAdditions.h"; path = "Masonry/ViewController+MASAdditions.h"; sourceTree = "<group>"; };
 		F4602B13663605471CA290ED901C23BB /* Masonry.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Masonry.modulemap; sourceTree = "<group>"; };
 		F5C266E12C3D58A05DD05BA37F634D1F /* Pods-MockAliTableView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MockAliTableView_Example-umbrella.h"; sourceTree = "<group>"; };
-		F65FE176C81A9FFE988FFEBBC98B7076 /* MockAliTableView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MockAliTableView-dummy.m"; sourceTree = "<group>"; };
+		F63343D09ADC931ECA3F6FE25C0A3AE0 /* MockAliTableView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MockAliTableView.modulemap; sourceTree = "<group>"; };
 		F7856316859155F5DB3FD2ED3A749330 /* UIScrollView+MJRefresh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIScrollView+MJRefresh.h"; path = "MJRefresh/UIScrollView+MJRefresh.h"; sourceTree = "<group>"; };
-		F8FEE8D570C9722F1E67D10D32188826 /* MockAliTableView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MockAliTableView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		FAFA5954D2F9D61AD85507E72360F4D9 /* MockAliTableView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MockAliTableView-prefix.pch"; sourceTree = "<group>"; };
 		FBADB2D6C5AB3472D7D0923EB0D89653 /* Pods-MockAliTableView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MockAliTableView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -302,13 +304,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E81A49091B96D0B7EE18EA092AC8BF75 /* Frameworks */ = {
+		F606A45E616AF21ED5D44954043FFA9F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3EB96D2F8C161E79BD0D9A7F0D386690 /* Foundation.framework in Frameworks */,
-				3D0F2C501ACF29FF799C247D9EBC8D26 /* Masonry.framework in Frameworks */,
-				348383DED291C6D3B1DCEA7AB608ECB0 /* MJRefresh.framework in Frameworks */,
+				8C0F15DA4933CD97CE942D5A6C105991 /* Foundation.framework in Frameworks */,
+				D4B4E70415160F1DBDC33399476BEC53 /* Masonry.framework in Frameworks */,
+				CF17F095DC3E3B4F4D59864B9F6EAE87 /* MJRefresh.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -325,26 +327,50 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		0D8415D82FF62B1AD2C1FF090ED7BD6A /* MockAliTableView */ = {
-			isa = PBXGroup;
-			children = (
-				75414250BDFA53DC5026987602858775 /* CustomExpandHeader.h */,
-				8647810ADFF804A2C98C62FBFFEF1623 /* CustomExpandHeader.m */,
-				4B8C8D552A0CA18F5EBAE90283599C3A /* QXMockAliTableView.h */,
-				50D360AED4BB7723A9EFF82A62033A84 /* QXMockAliTableView.m */,
-				AED4A085EC4CFC8E8E1290C4BB859C5C /* Pod */,
-				7E213DCC2174B2F709C7435CA7DA6EAA /* Support Files */,
-			);
-			name = MockAliTableView;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		140775CCFDCF42F77BE3AA1ADD4033B1 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				D8B038DCF63D69CF9A8FE40AB097C2EA /* MJRefresh.bundle */,
 			);
 			name = Resources;
+			sourceTree = "<group>";
+		};
+		1CDA292C4368FBEF8AB1CCC9118DDD7E /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				29D7721D2E49158042EFA7D4B70DE573 /* MockAliTableView */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		29D7721D2E49158042EFA7D4B70DE573 /* MockAliTableView */ = {
+			isa = PBXGroup;
+			children = (
+				85F532BA7496B4D4D6D8192CC1D77EB4 /* CustomExpandHeader.h */,
+				602E0A9699682A24D57C65F52ADDDD37 /* CustomExpandHeader.m */,
+				01288B29651764CCB73EF71B83DB8CF1 /* MockAliTableView.h */,
+				E1527499994D73CC93A2D84275B3DDE0 /* QXMockAliTableView.h */,
+				2EF5AA7696353927EFAF5A396828761C /* QXMockAliTableView.m */,
+				7523C7175F66530B0CA8FE744AB0753E /* Pod */,
+				2E522125B25F9502E2BF54F827F26E1A /* Support Files */,
+			);
+			name = MockAliTableView;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		2E522125B25F9502E2BF54F827F26E1A /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				F63343D09ADC931ECA3F6FE25C0A3AE0 /* MockAliTableView.modulemap */,
+				92FD111D0C2D768AB25B781B1FD922EB /* MockAliTableView-dummy.m */,
+				E1A8EFB205A6278D771D0E8519BAF835 /* MockAliTableView-Info.plist */,
+				FAFA5954D2F9D61AD85507E72360F4D9 /* MockAliTableView-prefix.pch */,
+				07FD3AC91FD9FCFBD7C9BB2C750021B7 /* MockAliTableView-umbrella.h */,
+				D8A410BA980B6826DB80CDD0CEAFB9E8 /* MockAliTableView.debug.xcconfig */,
+				8FC13012B2EDD6D3CA77C740114515EC /* MockAliTableView.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/MockAliTableView";
 			sourceTree = "<group>";
 		};
 		5C2235B2321BEF59C3E29332AC626875 /* Masonry */ = {
@@ -432,19 +458,14 @@
 			path = MJRefresh;
 			sourceTree = "<group>";
 		};
-		7E213DCC2174B2F709C7435CA7DA6EAA /* Support Files */ = {
+		7523C7175F66530B0CA8FE744AB0753E /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				B618D8829A3F684E105230CF568DC53D /* MockAliTableView.modulemap */,
-				F65FE176C81A9FFE988FFEBBC98B7076 /* MockAliTableView-dummy.m */,
-				2A3FD64C7D14E0D877F106DC4AC63288 /* MockAliTableView-Info.plist */,
-				248BEC06A1DB6FDF8E3EB3C80D92A467 /* MockAliTableView-prefix.pch */,
-				806947AC98DB60FCCEA08478803623F5 /* MockAliTableView-umbrella.h */,
-				6FDEB73013ECAC5705BEA08CEE7B77DA /* MockAliTableView.debug.xcconfig */,
-				747E18137E6CF1D2268A3C1715E35B89 /* MockAliTableView.release.xcconfig */,
+				C9801479DC8A2CA803251CA60D62E523 /* LICENSE */,
+				9A0696AE92554656BEB1B4D30C7B0B58 /* MockAliTableView.podspec */,
+				5C696257DB1FB137072EF29A80B0C3A6 /* README.md */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/MockAliTableView";
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		84FA75C45D04B97E25B5EC7EE9DA8A72 /* Pods-MockAliTableView_Example */ = {
@@ -488,16 +509,6 @@
 			path = "../Target Support Files/Masonry";
 			sourceTree = "<group>";
 		};
-		AED4A085EC4CFC8E8E1290C4BB859C5C /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				4F233BFF2BE496808FC20274A6E58E3D /* LICENSE */,
-				F8FEE8D570C9722F1E67D10D32188826 /* MockAliTableView.podspec */,
-				5334904204B329EFB825E355927349CB /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
 		BC838A6CF81FA607D40D3F5D661F72F1 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -511,20 +522,12 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				D81CB3952B01A30703C4E69D991B1001 /* Development Pods */,
+				1CDA292C4368FBEF8AB1CCC9118DDD7E /* Development Pods */,
 				0927BE7D130A9CA5C7542466E38E3E3B /* Frameworks */,
 				BC838A6CF81FA607D40D3F5D661F72F1 /* Pods */,
 				E2692EE164CA4EC0FC6053E2D49ACAF0 /* Products */,
 				8AF1E518947648F76F0DB0437BC2B07C /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		D81CB3952B01A30703C4E69D991B1001 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				0D8415D82FF62B1AD2C1FF090ED7BD6A /* MockAliTableView */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		DAE307306F1BF2AA040DA62A1B48BDAB /* Support Files */ = {
@@ -582,16 +585,6 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		0242417D8783A389147D64009A3636B9 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D92EAC857D7E799A6A4323E5AA588CF6 /* CustomExpandHeader.h in Headers */,
-				B3164E66962E34AB8AD74B4609717C59 /* MockAliTableView-umbrella.h in Headers */,
-				D016EF2D039A006DE15F5EF7B4B90601 /* QXMockAliTableView.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		52FBC25D9BA24C763E1B02EB9D36348C /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -605,6 +598,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				F76CE31840E207B2CB8B4DA8AFF0EF10 /* Pods-MockAliTableView_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		76A255ACC8497F029E494F82B00E30A2 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				34C19E83CF72C2B53B30ED3BBDFB97D8 /* CustomExpandHeader.h in Headers */,
+				974C0C1ED9925C35B411F0D35C910446 /* MockAliTableView-umbrella.h in Headers */,
+				8C8F0372BDF4BAD067A8506E04F2F9CA /* MockAliTableView.h in Headers */,
+				6F9F0D6C2B8E95502AC0308AE294FFF1 /* QXMockAliTableView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -722,18 +726,18 @@
 		};
 		AAEFD2CAFB05CEB49ADDD817F1A97EC1 /* MockAliTableView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AFF715A0E034116C77DC4826EF7308D5 /* Build configuration list for PBXNativeTarget "MockAliTableView" */;
+			buildConfigurationList = 8FD26454DBAC2436D4FF3FB78151B805 /* Build configuration list for PBXNativeTarget "MockAliTableView" */;
 			buildPhases = (
-				0242417D8783A389147D64009A3636B9 /* Headers */,
-				73086C3C27E64B0E35D786BCBFA98EE7 /* Sources */,
-				E81A49091B96D0B7EE18EA092AC8BF75 /* Frameworks */,
-				87F7EFCADE4D9E69C3976806AC004E4C /* Resources */,
+				76A255ACC8497F029E494F82B00E30A2 /* Headers */,
+				5F2677CCCF5476A4590B7335343BB7EA /* Sources */,
+				F606A45E616AF21ED5D44954043FFA9F /* Frameworks */,
+				2BD5304BBF20F56AF2C2EBE111CA9FF6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				FE81ABFABDB336352DAD9064FA9E1A40 /* PBXTargetDependency */,
-				0C171C278BB3337E66E69D05559D7BAE /* PBXTargetDependency */,
+				8A5AFBE5D47B6C62870CB5612330B4FB /* PBXTargetDependency */,
+				56F3C48431CA5B83DF3FAB4788C3369C /* PBXTargetDependency */,
 			);
 			name = MockAliTableView;
 			productName = MockAliTableView;
@@ -798,14 +802,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5F55FF672C991816A9A0A236A7928418 /* Resources */ = {
+		2BD5304BBF20F56AF2C2EBE111CA9FF6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		87F7EFCADE4D9E69C3976806AC004E4C /* Resources */ = {
+		5F55FF672C991816A9A0A236A7928418 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -876,13 +880,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		73086C3C27E64B0E35D786BCBFA98EE7 /* Sources */ = {
+		5F2677CCCF5476A4590B7335343BB7EA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0E844467564196946032458223350B6A /* CustomExpandHeader.m in Sources */,
-				267296F0ACC4874016495298318358D9 /* MockAliTableView-dummy.m in Sources */,
-				09C30DD4D3FC177E95B3CE4F5C8A2320 /* QXMockAliTableView.m in Sources */,
+				3A5D97C4B20A87162DBD6249B0AD8615 /* CustomExpandHeader.m in Sources */,
+				DFD7F9830F8B6CE2BFE03818B6BAD73D /* MockAliTableView-dummy.m in Sources */,
+				541822963E79DB0CA9B1FFD824A3A7B5 /* QXMockAliTableView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -911,17 +915,23 @@
 			target = AAEFD2CAFB05CEB49ADDD817F1A97EC1 /* MockAliTableView */;
 			targetProxy = 0277057F849886C67C3EE5FF3086B6BA /* PBXContainerItemProxy */;
 		};
-		0C171C278BB3337E66E69D05559D7BAE /* PBXTargetDependency */ = {
+		56F3C48431CA5B83DF3FAB4788C3369C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Masonry;
 			target = 55AF53E6C77A10ED4985E04D74A8878E /* Masonry */;
-			targetProxy = 77C2D166224EF9B6471E8F7E0142EF27 /* PBXContainerItemProxy */;
+			targetProxy = D5FE31049A44C4C02E9131F3AC65ECA7 /* PBXContainerItemProxy */;
 		};
 		6692407E44E93BDCA762FEE8EA2DF93A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-MockAliTableView_Example";
 			target = 60F0C27434CFA765BF2C439FD5D1BD81 /* Pods-MockAliTableView_Example */;
 			targetProxy = 0DF082B6E1803DFC93F69E14CFE289D0 /* PBXContainerItemProxy */;
+		};
+		8A5AFBE5D47B6C62870CB5612330B4FB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = MJRefresh;
+			target = 6868056D761E163D10FDAF8CF1C4D9B8 /* MJRefresh */;
+			targetProxy = 81B090E8D1409ED8F03F76FAD9D361D8 /* PBXContainerItemProxy */;
 		};
 		A27623868D6DEF687E8042039B7A7F0C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -935,18 +945,45 @@
 			target = 55AF53E6C77A10ED4985E04D74A8878E /* Masonry */;
 			targetProxy = 5384DEE780ABAEC4E18D5C7DA515662A /* PBXContainerItemProxy */;
 		};
-		FE81ABFABDB336352DAD9064FA9E1A40 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = MJRefresh;
-			target = 6868056D761E163D10FDAF8CF1C4D9B8 /* MJRefresh */;
-			targetProxy = 738A7F82FBDDC7B9C5FD8C4898BD5F34 /* PBXContainerItemProxy */;
-		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		10A92D64372C22FB530F47AF0B132591 /* Release */ = {
+		2FADCE1BFE48A91379C7E512AFBD6570 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 747E18137E6CF1D2268A3C1715E35B89 /* MockAliTableView.release.xcconfig */;
+			baseConfigurationReference = ED27E19BCA16DF879C1B4BBFA4DAD9F4 /* Pods-MockAliTableView_Tests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-MockAliTableView_Tests/Pods-MockAliTableView_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MockAliTableView_Tests/Pods-MockAliTableView_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		32DE3F49C3BC51A7A4C878CA98D08076 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8FC13012B2EDD6D3CA77C740114515EC /* MockAliTableView.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -976,11 +1013,10 @@
 			};
 			name = Release;
 		};
-		2FADCE1BFE48A91379C7E512AFBD6570 /* Debug */ = {
+		38C35E1554FFA5FF546844D73CFBBCD6 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = ED27E19BCA16DF879C1B4BBFA4DAD9F4 /* Pods-MockAliTableView_Tests.debug.xcconfig */;
+			baseConfigurationReference = D8A410BA980B6826DB80CDD0CEAFB9E8 /* MockAliTableView.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -990,19 +1026,18 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-MockAliTableView_Tests/Pods-MockAliTableView_Tests-Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/MockAliTableView/MockAliTableView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MockAliTableView/MockAliTableView-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-MockAliTableView_Tests/Pods-MockAliTableView_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				MODULEMAP_FILE = "Target Support Files/MockAliTableView/MockAliTableView.modulemap";
+				PRODUCT_MODULE_NAME = MockAliTableView;
+				PRODUCT_NAME = MockAliTableView;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1198,37 +1233,6 @@
 			};
 			name = Debug;
 		};
-		AA9DC8789B6E833044B777C6BC16900B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6FDEB73013ECAC5705BEA08CEE7B77DA /* MockAliTableView.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MockAliTableView/MockAliTableView-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MockAliTableView/MockAliTableView-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/MockAliTableView/MockAliTableView.modulemap";
-				PRODUCT_MODULE_NAME = MockAliTableView;
-				PRODUCT_NAME = MockAliTableView;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		B3C6A51F8DCBA9C3C7FFE110649CA4C1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 71988BF20F5AEE732DE4B753977F3402 /* MJRefresh.release.xcconfig */;
@@ -1421,11 +1425,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AFF715A0E034116C77DC4826EF7308D5 /* Build configuration list for PBXNativeTarget "MockAliTableView" */ = {
+		8FD26454DBAC2436D4FF3FB78151B805 /* Build configuration list for PBXNativeTarget "MockAliTableView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				AA9DC8789B6E833044B777C6BC16900B /* Debug */,
-				10A92D64372C22FB530F47AF0B132591 /* Release */,
+				38C35E1554FFA5FF546844D73CFBBCD6 /* Debug */,
+				32DE3F49C3BC51A7A4C878CA98D08076 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

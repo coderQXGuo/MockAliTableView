@@ -8,8 +8,7 @@
 
 #import "QXViewController.h"
 #import <Masonry/Masonry.h>
-#import "QXMockAliTableView.h"
-#import "CustomExpandHeader.h"
+#import <MockAliTableView/MockAliTableView.h>
 
 #define kNavBarHeight (CGRectGetHeight([UIApplication sharedApplication].statusBarFrame) + 44.0)
 
