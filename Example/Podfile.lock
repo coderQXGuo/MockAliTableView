@@ -1,0 +1,27 @@
+PODS:
+  - Masonry (1.1.0)
+  - MJRefresh (3.4.3)
+  - MockAliTableView (1.0.0):
+    - Masonry
+    - MJRefresh
+
+DEPENDENCIES:
+  - MockAliTableView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - MJRefresh
+
+EXTERNAL SOURCES:
+  MockAliTableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: 53e3e3219f204425ee6d3e62e8733d3295944cd6
+  MockAliTableView: 99bbf7a29d081782ceebc0c70bf43e51ff572acd
+
+PODFILE CHECKSUM: e466f02b2b732b425ed0c8ecc7fd2d6560037895
+
+COCOAPODS: 1.9.3
